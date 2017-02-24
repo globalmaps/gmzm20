@@ -9,4 +9,4 @@ Credit: Global Map of Zambia © ISCGM/Survey Department, Zambia
 
 Contact: Survey Department, Zambia.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/zambia.png)
+E-mail: ![email](email.png)
